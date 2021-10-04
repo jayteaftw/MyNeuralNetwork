@@ -5,7 +5,7 @@ The model was trained on the MNIST Fashion Dataset.
 Project is based on the Book: "Neural Network from Scratch in Python"
 
 ## File Descriptions
-**MMNLibrary.py**: Contains base functions such as Dense Layers, Activation functions, Loss functions, Accuracy functions, Optimizer functions and an all encompassed Model function.
+**MNNLibrary.py**: Contains base functions such as Dense Layers, Activation functions, Loss functions, Accuracy functions, Optimizer functions and an all encompassed Model function.
 
 **train.py**: Trains the model on a preset small architecture([1,256]->[256,256]->[256,10] *Subject to Change*)
 
