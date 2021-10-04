@@ -1,6 +1,6 @@
 # My Neural Network
 
-A Deep Neural Network built from scratch.
+A Neural Network built from scratch.
 The model was trained on the MNIST Fashion Dataset.
 Project is based on the Book: "Neural Network from Scratch in Python"
 
