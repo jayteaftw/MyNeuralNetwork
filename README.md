@@ -13,7 +13,7 @@ Project is based on the Book: "Neural Network from Scratch in Python"
 
 **evaluate.py**: Evaluates a given model on the test set data for MNIST Fashion dataset
 
-**show.py**: Shows the user how the model see the input image in a 28 by 28 pixel grayscaled ratio.
+**show.py**: Displays the input image in a 28 by 28 pixel grayscaled ratio.
 
 ## Examples and Findings
 I was able to obtain a model with a 89% accuracy on the test model.
