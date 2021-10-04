@@ -1,4 +1,4 @@
-# MyDeepNeuralNetwork
+# My Neural Network
 
 A Deep Neural Network built from scratch.
 The model was trained on the MNIST Fashion Dataset.
